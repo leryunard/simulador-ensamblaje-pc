@@ -11,4 +11,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/SelectType.unity
     guid: 8fc4097f8f21a5e46a2128c89825e6aa
+  - enabled: 1
+    path: Assets/Scenes/AssemblyDesktop.unity
+    guid: 9897812c8378feb4cac186e1f4e0ebc5
   m_configObjects: {}
