@@ -71,7 +71,7 @@ La aplicación maneja variables de control funcionales, evaluadas de forma visua
 
 ## 👥 Autores y créditos
 
-Proyecto académico realizado por el Grupo [NOMBRE DEL GRUPO] para la asignatura **Técnicas de Simulación** – Universidad de El Salvador – 2025.
+Proyecto académico realizado por el Grupo D para la asignatura **Técnicas de Simulación** – Universidad de El Salvador – 2025.
 
 ---
 
